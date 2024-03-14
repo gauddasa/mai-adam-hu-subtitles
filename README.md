@@ -4,6 +4,8 @@ Song link: https://www.youtube.com/watch?v=kdCWQ6epGDQ
 
 Channel link: https://www.youtube.com/@AdamSeekerUrdu
 
+Test the subtitles (unlisted video): https://youtu.be/3kMdiSutD7o
+
 0:00:22.221,0:00:26.660
 Look at this army of followers
 marching behind me.
