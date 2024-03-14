@@ -1,5 +1,7 @@
 Subtitles of Song: Mai Adam Hu
+
 Song link: https://www.youtube.com/watch?v=kdCWQ6epGDQ
+
 Channel link: https://www.youtube.com/@AdamSeekerUrdu
 
 0:00:22.221,0:00:26.660
